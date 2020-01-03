@@ -26,8 +26,8 @@
 
 - ### Backend(Server Side)
 
-   <img src="./images/node.png" width="100" height="100"> 
-   <img src="./images/express.png" width="100" height="100"> 
+   <img src="./images/node.png" width="150" height="100"> 
+   <img src="./images/express.png" width="150" height="100"> 
 
 - ### Database
-   <img src="./images/mongo.png" width="100" height="100"> 
+   <img src="./images/mongo.png" width="150" height="100"> 
